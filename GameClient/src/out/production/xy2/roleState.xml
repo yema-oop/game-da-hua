@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dialogs>
+    <Dialog sepciesId="20001" raceId="10001" sex="男" localName="逍遥生"></Dialog>
+    <Dialog sepciesId="20002" raceId="10001" sex="男" localName="剑侠客"></Dialog>
+    <Dialog sepciesId="20003" raceId="10001" sex="男" localName="猛壮士"></Dialog>
+    <Dialog sepciesId="20004" raceId="10001" sex="女" localName="飞燕女"></Dialog>
+    <Dialog sepciesId="20005" raceId="10001" sex="女" localName="英女侠"></Dialog>
+    <Dialog sepciesId="20006" raceId="10001" sex="女" localName="俏千金"></Dialog>
+    <Dialog sepciesId="20007" raceId="10001" sex="男" localName="飞剑侠"></Dialog>
+    <Dialog sepciesId="20008" raceId="10001" sex="女" localName="燕山雪"></Dialog>
+    <Dialog sepciesId="20009" raceId="10001" sex="男" localName="纯阳子"></Dialog>
+    <Dialog sepciesId="20010" raceId="10001" sex="女" localName="红拂女"></Dialog>
+    <Dialog sepciesId="21001" raceId="10002" sex="男" localName="虎头怪"></Dialog>
+    <Dialog sepciesId="21002" raceId="10002" sex="男" localName="夺命妖"></Dialog>
+    <Dialog sepciesId="21003" raceId="10002" sex="男" localName="巨魔王"></Dialog>
+    <Dialog sepciesId="21004" raceId="10002" sex="女" localName="小蛮妖"></Dialog>
+    <Dialog sepciesId="21005" raceId="10002" sex="女" localName="骨精灵"></Dialog>
+    <Dialog sepciesId="21006" raceId="10002" sex="女" localName="狐美人"></Dialog>
+    <Dialog sepciesId="21007" raceId="10002" sex="男" localName="逆天魔"></Dialog>
+    <Dialog sepciesId="21008" raceId="10002" sex="女" localName="媚灵狐"></Dialog>
+    <Dialog sepciesId="21009" raceId="10002" sex="男" localName="混天魔"></Dialog>
+    <Dialog sepciesId="21010" raceId="10002" sex="女" localName="九尾狐"></Dialog>
+    <Dialog sepciesId="22001" raceId="10003" sex="男" localName="神天兵"></Dialog>
+    <Dialog sepciesId="22002" raceId="10003" sex="男" localName="智圣仙"></Dialog>
+    <Dialog sepciesId="22003" raceId="10003" sex="男" localName="龙战将"></Dialog>
+    <Dialog sepciesId="22004" raceId="10003" sex="女" localName="精灵仙"></Dialog>
+    <Dialog sepciesId="22005" raceId="10003" sex="女" localName="舞天姬"></Dialog>
+    <Dialog sepciesId="22006" raceId="10003" sex="女" localName="玄剑娥"></Dialog>
+    <Dialog sepciesId="22007" raceId="10003" sex="男" localName="武尊神"></Dialog>
+    <Dialog sepciesId="22008" raceId="10003" sex="女" localName="玄天姬"></Dialog>
+    <Dialog sepciesId="22009" raceId="10003" sex="男" localName="紫薇神"></Dialog>
+    <Dialog sepciesId="22010" raceId="10003" sex="女" localName="霓裳仙"></Dialog>
+    <Dialog sepciesId="23001" raceId="10004" sex="男" localName="祭剑魂"></Dialog>
+    <Dialog sepciesId="23002" raceId="10004" sex="男" localName="猎魂引"></Dialog>
+    <Dialog sepciesId="23003" raceId="10004" sex="男" localName="无崖子"></Dialog>
+    <Dialog sepciesId="23004" raceId="10004" sex="女" localName="墨衣行"></Dialog>
+    <Dialog sepciesId="23005" raceId="10004" sex="女" localName="夜溪灵"></Dialog>
+    <Dialog sepciesId="23006" raceId="10004" sex="女" localName="幽梦影"></Dialog>
+    <Dialog sepciesId="24001" raceId="10005" sex="男" localName="沧浪君"></Dialog>
+    <Dialog sepciesId="24002" raceId="10005" sex="男" localName="龙渊客"></Dialog>
+    <Dialog sepciesId="24003" raceId="10005" sex="男" localName="忘忧子"></Dialog>
+    <Dialog sepciesId="24004" raceId="10005" sex="女" localName="骊珠儿"></Dialog>
+    <Dialog sepciesId="24005" raceId="10005" sex="女" localName="木兰行"></Dialog>
+    <Dialog sepciesId="24006" raceId="10005" sex="女" localName="莫解语"></Dialog>
+</Dialogs>

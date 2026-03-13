@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Dialogs>
+    <Dialog type="735">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="888">
+        <menu inittitle="我要结婚" initActionId="confirm_getMarry"></menu>
+        <menu inittitle="我要离婚" initActionId="confirm_unMarry"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="5">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//杂货
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="6">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//药店老板
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="7">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//武器店
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="8">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//药店老板
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="9">
+        <menu inittitle="我想买点药品" initActionId="confirm_buy"></menu>//药铺老板
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="13">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//矿石商店
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="14">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//武器店
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="15">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//饰品店老板
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="37">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//卞城王
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="45">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//平等王
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="99">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//袁天罡
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="10">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//李静
+    </Dialog>
+    <Dialog type="120">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//慈恩寺监院
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="121">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//积分兑换皇宫
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="131">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//杜老板
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="999">
+        <menu inittitle="帮我查个人" initActionId="confirm_buy"></menu>//千里眼
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="39">
+        <menu inittitle="我要查询剩余双倍时间" initActionId="confirm_buy"></menu>
+        <menu inittitle="我要冻结双倍时间" initActionId="confirm_undo"></menu>
+        <menu inittitle="我要领取一小时双倍时间" initActionId="confirm_un"></menu>
+        <menu inittitle="我要领取二小时双倍时间" initActionId="confirm_und"></menu>
+    </Dialog>
+    <Dialog type="40">
+        <menu inittitle="我要住店(2000银两)" initActionId="confirm_buy"></menu>
+        <menu inittitle="换个高级藏宝图" initActionId="confirm_buy"></menu>
+        <menu inittitle="换个超级藏宝图" initActionId="confirm_buy"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="41">
+        <menu inittitle="我要住店(扣除2000银两)" initActionId="confirm_buy"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="88">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//符文商店
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="50">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>//丹青生变身卡
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="19">
+        <sure RaceId="22001-22002-22003-22007-22004-22005-22006-22008-22009-22010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="20">
+        <sure RaceId="22004-22005-22006-22008-22010" Sex="">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="21">
+        <sure RaceId="22001-22002-22003-22007-22009">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="22">
+        <sure RaceId="22001-22002-22003-22007-22009-22004-22005-22006-22008-22010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="23">
+        <sure RaceId="20001-20002-20003-20007-20009-20004-20005-20006-20008-20010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="24">
+        <sure RaceId="20001-20002-20003-20007-20009-20004-20005-20006-20008-20010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="25">
+        <sure RaceId="20004-20005-20006-20008-20010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="26">
+        <sure RaceId="20001-20002-20003-20007-20009">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="27">
+        <sure RaceId="21001-21002-21003-21007-21009-21004-21005-21006-21008-21010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="28">
+        <sure RaceId="21001-21002-21003-21007-21009-21004-21005-21006-21008-21010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="29">
+        <sure RaceId="21004-21005-21006-21008-21010">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="30">
+        <sure RaceId="21001-21002-21003-21007-21009">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="72">
+        <sure RaceId="23001-23002-23003-23004-23005-23006">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="73">
+        <sure RaceId="23001-23002-23003">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="74">
+        <sure RaceId="23001-23002-23003-23004-23005-23006">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="75">
+        <sure RaceId="23004-23005-23006">
+            <menu sureinittitle="学习法术" sureinitActionId="confirm_stu_skill"></menu>
+        </sure>
+        <menu inittitle="我要回长安" initActionId="confirm_goToChangan"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="12">
+        <menu inittitle="我要打造普通装备" initActionId="confirm_com_equip"></menu>
+        <menu inittitle="我要升级神兵" initActionId="confirm_up_equip"></menu>
+        <menu inittitle="精炼神兵" initActionId="confirm_up_equip"></menu>
+        <menu inittitle="我要上神兵石" initActionId="confirm_undo"></menu>
+        <menu inittitle="我要合成炼妖石" initActionId="confirm_com_demon"></menu>
+        <menu inittitle="符石合成重铸" initActionId="confirm_com_demon"></menu>
+    </Dialog>
+    <Dialog type="16">
+        <menu inittitle="我的召唤兽的伤害，帮我治疗一下它并提高它的忠诚度吧" initActionId="confirm_friendly"></menu>
+        <menu inittitle="我想查看当前召唤兽的亲密度" initActionId="confirm_lovely"></menu>
+        <menu inittitle="全部医治和修复" initActionId="confirm_lovely"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="17">
+        <menu inittitle="江湖救急啊，请救救我和我的宝宝吧" initActionId="confirm_cure"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="18">
+        <menu inittitle="我想买点东西" initActionId="confirm_parise"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="32">
+        <menu inittitle="我要一颗情花苗" initActionId="confirm_flower"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="36">
+        <menu inittitle="兑换超级龙之骨" initActionId="confirm_undo"></menu>
+        <menu inittitle="兑换高级聚魄丹" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="38">
+        <menu inittitle="神兽学习技能" initActionId="confirm_pet_stuskill"></menu>
+        <menu inittitle="飞升当前参战神兽" initActionId="confirm_fly_pet"></menu>
+        <menu inittitle="我要合成召唤兽" initActionId="confirm_fly_pet"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="44">
+        <menu inittitle="转生当前召唤兽" initActionId="confirm_turn_pet"></menu>
+        <menu inittitle="点化当前坐骑" initActionId="confirm_turn_pet"></menu>
+        <menu inittitle="点化当前召唤兽" initActionId="confirm_turn_pet"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="47">
+        <menu inittitle="我已做好了转生准备" initActionId="confirm_turn_ready"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="48">
+        <menu inittitle="我想转换种族" initActionId="confirm_change_race"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="49">
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="54">
+        <menu inittitle="打造11-16级装备" initActionId="confirm_com_highequip"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="61">
+        <menu inittitle="我来报名参加帮战" initActionId="confirm_into_fight"></menu>
+        <menu inittitle="我要参加帮战" initActionId="confirm_into_fight"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="63">
+        <menu inittitle="我要创建帮派,(需要一个召集令)" initActionId="confirm_create_team"></menu>
+        <menu inittitle="加入帮派" initActionId="confirm_join_gang"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="64">
+        <menu inittitle="进入帮派" initActionId="confirm_into_gang"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="66">
+        <menu inittitle="我要合成仙器" initActionId="confirm_com_fai"></menu>
+        <menu inittitle="我要升级仙器" initActionId="confirm_up_fai"></menu>
+        <menu inittitle="我要洗炼仙器" initActionId="_clear_fai"></menu>
+        <menu inittitle="我要重铸仙器《洗练放高级悔梦石 重铸放悔梦石》" initActionId="_clear_fai"></menu>
+        <menu inittitle="改变仙器模型不变属性和洗练《星辰之光》" initActionId="_clear_fai"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="69">
+        <menu inittitle="我要培养护身符" initActionId="confirm_cul_orn"></menu>
+        <menu inittitle="我要重铸护身符" initActionId="confirm_re_orn"></menu>
+        <menu inittitle="我要培养饰品" initActionId="confirm_cul_orn"></menu>
+        <menu inittitle="我要重铸饰品" initActionId="confirm_re_orn"></menu>
+        <menu inittitle="培养彩晶石" initActionId="confirm_re_orn"></menu>
+        <!--		<menu inittitle="我要解封神饰" initActionId="confirm_re_orn"></menu>-->
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="70">
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1">
+        <menu inittitle="满地宝物先抢一个在说" initActionId="confirm_fight_monster"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="31">
+        <menu inittitle="我要取回物品" initActionId="confirm_get_pawn_goods"></menu>
+        <menu inittitle="我要典当物品" initActionId="confirm_pawn_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="130">
+        <menu inittitle="我要洞房" initActionId="confirm_make_love"></menu>
+        <menu inittitle="我要回家" initActionId="confirm_make_move"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1001">
+        <menu inittitle="我要脱离帮战" initActionId="confirm_make_love"></menu>
+        <menu inittitle="我要进入高手挑战赛" initActionId="confirm_undo"></menu>
+        <menu inittitle="我要进入战场" initActionId="confirm_undo"></menu>
+        <menu inittitle="回到营地" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1003">
+        <menu inittitle="剧毒封印之书" initActionId="confirm_make_love"></menu>
+        <menu inittitle="寒冰封印之书" initActionId="confirm_undo"></menu>
+        <menu inittitle="天雷封印之书" initActionId="confirm_undo"></menu>
+        <menu inittitle="御剑封印之书" initActionId="confirm_undo"></menu>
+        <menu inittitle="狂力封印之书" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1004">
+        <menu inittitle="冥灵古卷" initActionId="confirm_make_love"></menu>
+        <menu inittitle="玲珑古卷" initActionId="confirm_undo"></menu>
+        <menu inittitle="巨翼古卷" initActionId="confirm_undo"></menu>
+        <menu inittitle="葫芦古卷" initActionId="confirm_undo"></menu>
+        <menu inittitle="如意古卷" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1005">
+        <menu inittitle="苍凛古卷" initActionId="confirm_make_love"></menu>
+        <menu inittitle="赭炎古卷" initActionId="confirm_undo"></menu>
+        <menu inittitle="当康古卷" initActionId="confirm_undo"></menu>
+        <menu inittitle="松鼠古卷" initActionId="confirm_undo"></menu>
+        <menu inittitle="佳音小使古卷" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1006">
+        <menu inittitle="我要回长安" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1100">
+        <menu inittitle="我要激活兑奖码" initActionId="confirm_undo"></menu>
+        <menu inittitle="兑换彩晶石" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="122">
+        <menu inittitle="我要抽奖" initActionId="confirm_lottery"></menu>
+        <menu inittitle="我要投放功绩物品" initActionId="confirm_throw_in"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="123">
+        <menu inittitle="我想买点东西" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="124">
+        <menu inittitle="我想买点东西" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="125">
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="126">
+        <menu inittitle="我要参加水陆大会" initActionId="confirm_buy"></menu>
+        <menu inittitle="领取水陆大会奖励" initActionId="confirm_undo"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_buy"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="128">
+        <menu inittitle="我要下挑战书" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="129">
+        <menu inittitle="我要兑换灵修值" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我要收录玉符（玉符转符录）" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我要查看已有符录（符录转玉符）" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我要回长安" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="132">
+        <menu inittitle="前途缈缈，我还是再准备下吧" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="133">
+        <menu initActionId="confirm_undo" inittitle="年(588碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="画中仙(488碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="白泽(468碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="我什么都不做"/>
+    </Dialog>
+    <Dialog type="134">
+        <menu initActionId="confirm_undo" inittitle="龙马(188碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="画皮娘子(188碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="孔雀明王(188碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="北冥龙君(288碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="孟极(288碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="镜花水月(388碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="妙音栾女(388碎片)"/>
+        <menu initActionId="confirm_undo" inittitle="我什么都不做"/>
+    </Dialog>
+    <Dialog type="136">
+        <menu inittitle="我想买点东西" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="137">
+        <menu inittitle="我来助你一孵之力（需提交一个物品）" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="元旦快乐，有事先闪" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="1106">
+        <menu inittitle="参加种族赛" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="一键领取种族赛奖励" initActionId="confirm_undo"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="515">
+        <menu inittitle="参加擂台赛" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="一键领取擂台赛奖励" initActionId="confirm_undo"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="520">
+        <menu inittitle="我要进行九生九死挑战" initActionId="confirm_exchange_goods"></menu>
+    </Dialog>
+    <Dialog type="85">
+        <menu inittitle="我要打造,摘抄宝石" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我要合成宝石等" initActionId="confirm_undo"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="800">
+        <menu inittitle="我要参加跨服联赛" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="530">
+        <menu inittitle="我来上交地煞星之魂" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="605">
+        <menu inittitle="我要回到500年前" initActionId="confirm_undo"></menu>
+        <menu inittitle="领取大闹天宫奖励" initActionId="confirm_undo"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="42">
+        <menu inittitle="我来上交上古宝箱" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="43">
+        <menu inittitle="我来上交上古宝箱" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="103">
+        <menu inittitle="我要参观上古战场的风采" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="104">
+        <menu inittitle="送我回后方营地" initActionId="confirm_undo"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="105">
+        <menu inittitle="神力加持" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="2021">
+        <menu inittitle="升级帮派等级" initActionId="confirm_undo"></menu>
+        <menu inittitle="我要更换主守护" initActionId="confirm_undo"></menu>
+        <menu inittitle="我要更换副守护" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="2024">
+        <menu inittitle="我要提交材料" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="2025">
+        <menu inittitle="我想买点东西" initActionId="confirm_exchange_goods"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="2026">
+        <menu inittitle="守护小成修炼" initActionId="confirm_undo"></menu>
+        <menu inittitle="守护大成修炼" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="89">
+        <menu inittitle="我想从你这换点绑玉" initActionId="confirm_undo"></menu>
+        <menu inittitle="我想买点东西" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="2027">
+        <menu inittitle="我要参加全民竞技切磋" initActionId="confirm_undo"></menu>
+        <menu inittitle="我来换点竞技物品" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="2028">
+        <menu inittitle="我要挑战试炼幻境" initActionId="confirm_undo"></menu>
+        <menu inittitle="我点错了，我实力未到，不敢尝试" initActionId="confirm_undo"></menu>
+    </Dialog>
+    <Dialog type="985">
+        <menu inittitle="一号当铺" initActionId="confirm_get_pawn_goods"></menu>
+        <menu inittitle="二号当铺" initActionId="confirm_get_pawn_goods1"></menu>
+        <menu inittitle="三号当铺" initActionId="confirm_get_pawn_goods2"></menu>
+        <menu inittitle="我什么都不做" initActionId="confirm_undo"></menu>
+    </Dialog>
+
+    <Dialog type="2030">
+        <menu inittitle="能力测试一（日常怪）" initActionId="confirm_undo"></menu>
+        <menu inittitle="能力测试二（物法抗40、龙抗20、震慑抗20、毒抗5000、冰混忘睡抗120）"
+              initActionId="confirm_undo"></menu>
+        <menu inittitle="能力测试三（物法抗80、龙抗40、震慑抗50、毒抗15000、冰混忘睡抗180）"
+              initActionId="confirm_undo"></menu>
+        <menu inittitle="能力测试四（巅峰伤害测试木桩：物抗0、龙抗0、鬼火抗0、毒抗0）" initActionId="confirm_undo"></menu>
+        <menu inittitle="我就看看" initActionId="confirm_undo"></menu>
+    </Dialog>
+</Dialogs>
