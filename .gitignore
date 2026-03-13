@@ -5,8 +5,33 @@
 **/out/
 *.log
 *.class
-GameServer.7z
-*.zip
 .idea/
 .DS_Store
 *.iml
+.vscode/
+
+# Ignore compressed files
+*.7z
+*.zip
+*.rar
+*.tar
+*.gz
+
+# Ignore database files
+*.db
+
+# Ignore JAR files
+*.jar
+
+# Ignore font files (large binaries)
+*.ttf
+*.woff
+*.woff2
+*.eot
+*.otf
+
+# Ignore specific large directories
+/GameClient/jre/
+/GameClient/libs/
+/GameServer/src/main/webapp/WEB-INF/lib/
+/GameClient/classes/
