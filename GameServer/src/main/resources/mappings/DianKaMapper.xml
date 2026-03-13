@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="org.come.mapper.DianKaMapper">
+	<!-- 三端 -->
+	<resultMap type="org.come.entity.DianKaEntity" id="dianKaEntity">
+		<result property="roleid" column="ROLE_ID" />
+		<result property="outTime" column="OUTTIME" />
+		<result property="dianKaNum" column="DIANSHU" />
+		<result property="money" column="MONEY" />
+		<result property="committ" column="COMMITT" />
+		<result property="name" column="NAME" />
+	</resultMap>
+
+	<select id="selectAllDian" resultMap="dianKaEntity">
+		SELECT * FROM DIANKA
+	</select>
+
+	<select id="selectSingleDian" resultMap="dianKaEntity">
+		SELECT * FROM
+			DIANKA WHERE ROLE_ID = #{roleId} and OUTTIME = #{outTime}
+	</select>
+
+	<delete id="deleteDianKa">
+		delete DIANKA WHERE ROLE_ID = #{roleId} and OUTTIME = #{outTime}
+	</delete>
+
+	<insert id="insertDianKaRec" parameterType="org.come.entity.DianKaEntity">
+		insert into DIANKA(ROLE_ID,DIANSHU,MONEY,OUTTIME, COMMITT, NAME)
+		values(#{roleid},#{dianKaNum},#{money},#{outTime}, #{committ}, #{name})
+	</insert>
+
+	<update id="updateDianNum">
+		UPDATE DIANKA
+		SET DIANSHU=nvl(#{dianshu},DIANSHU), COMMITT=nvl(#{committ},COMMITT)
+		WHERE ROLE_ID = #{roleId} and OUTTIME = #{outTime}
+	</update>
+
+</mapper>	
