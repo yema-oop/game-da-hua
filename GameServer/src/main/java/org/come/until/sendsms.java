@@ -43,7 +43,7 @@ public class sendsms {
 
 		NameValuePair[] data = {//提交短信
 			    new NameValuePair("account", "C69900359"), //查看用户名是登录用户中心->验证码短信->产品总览->APIID
-			    new NameValuePair("password", "6e0a061805272583c415c312caabaea4"),  //查看密码请登录用户中心->验证码短信->产品总览->APIKEY
+			    new NameValuePair("password", System.getenv("SMS_PASSWORD")),  //查看密码请登录用户中心->验证码短信->产品总览->APIKEY
 			    //new NameValuePair("password", util.StringUtil.MD5Encode("密码")),
 			    new NameValuePair("mobile", phone), 
 			    new NameValuePair("content", content),
