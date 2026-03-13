@@ -1,0 +1,15 @@
+# Ignore build outputs and IDE files
+/GameServer/target/
+/GameClient/target/
+**/target/
+**/out/
+*.log
+*.jar
+*.war
+*.class
+*.7z
+GameServer.7z
+*.zip
+.idea/
+.DS_Store
+*.iml
